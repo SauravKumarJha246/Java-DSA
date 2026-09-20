@@ -10,8 +10,8 @@ public class check_area_parameter_of_rectangle {
         System.out.print("enter breadth:");
         double y = sc.nextDouble();
         double a = x*y;
-        System.out.print("area is : ");
-        System.out.println(a);
+        System.out.println("area is : " + a);
+        //System.out.println(a);
         double p = 2*(x+y);
         System.out.print("parameter is : " );
         System.out.println(p);

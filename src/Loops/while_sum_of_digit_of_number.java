@@ -14,7 +14,5 @@ public class while_sum_of_digit_of_number {
             n /= 10;
         }
         System.out.println(sum);
-
     }
-
 }
